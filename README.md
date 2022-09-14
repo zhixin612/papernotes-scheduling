@@ -17,7 +17,7 @@
 * **Borg** (sec 2.3)
 * **Trarfik** & **Ngnix** & [**blog**](https://logz.io/blog/best-open-source-load-balancers/)
 * **AntMan**
-* [ ] [low priority]: **MapReduce**; **GFS**; **BigTable**
+* [low priority]: **MapReduce**; **GFS**; **BigTable**
 * [low priority] **Spanner**; **B4**; **Bynamo**
 * [book]: **Designing Data-Intensive Applications**
 
