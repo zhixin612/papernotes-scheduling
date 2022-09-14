@@ -11,8 +11,8 @@
 
 ### 2022.09
 
-* [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](paper/1.20%AutoScale.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=SOSP'19&color=purple)](https://dl.acm.org/doi/10.1145/3341301.3359658) [![](https://img.shields.io/static/v1.svg?label=📺&message=PPT&color=green)](materials/nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📹&labelColor=gray&message=TALK&color=yellow)](https://sosp19.rcs.uwaterloo.ca/videos/D2-S2-P3.mp4)
-* [AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers](paper/1.20%Nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/autoscale.md) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=TOCS'12&color=purple)](https://dl.acm.org/doi/10.1145/2382553.2382556)
+* [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](paper/[1]AutoScale.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=SOSP'19&color=purple)](https://dl.acm.org/doi/10.1145/3341301.3359658) [![](https://img.shields.io/static/v1.svg?label=📺&message=PPT&color=green)](materials/nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📹&labelColor=gray&message=TALK&color=yellow)](https://sosp19.rcs.uwaterloo.ca/videos/D2-S2-P3.mp4)
+* [AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers](paper/[1]Nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/autoscale.md) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=TOCS'12&color=purple)](https://dl.acm.org/doi/10.1145/2382553.2382556)
 
 ### template:
 
