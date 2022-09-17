@@ -4,6 +4,8 @@
 
 [![](https://img.shields.io/github/repo-size/gg-lc/papernotes-scheduling?label=repo%20size)](https://github.com/gg-lc/papernotes-scheduling) [![](https://img.shields.io/github/directory-file-count/gg-lc/papernotes-scheduling/paper?label=total%20papers&labelColor=gray&color=red)](paper)
 
+----
+
 ### materials
 
 * CCF list 2019: [[chinese](materials/CCF_chinese.pdf)] [[international](materials/CCF_international.pdf)]
@@ -21,6 +23,8 @@
 * [low priority] **Spanner**; **B4**; **Bynamo**
 * [book]: **Designing Data-Intensive Applications**
 
+----
+
 ### 2022.09
 
 * [Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications](paper/[2]Shard_Manager.pdf) [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/shard_manager.md) [![](https://img.shields.io/static/v1.svg?label=[A]&message=SOSP'21&color=purple)](https://dl.acm.org/doi/10.1145/3477132.3483546) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/OMI52r-thFA) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
@@ -30,18 +34,20 @@
 ### 2022.00
 
 * Scrooge
+
 * [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](paper/[1]AutoScale.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=SOSP'19&color=purple)](https://dl.acm.org/doi/10.1145/3341301.3359658) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📹&labelColor=gray&message=TALK&color=yellow)](https://sosp19.rcs.uwaterloo.ca/videos/D2-S2-P3.mp4)
+
 * [AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers](paper/[1]Nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/autoscale.md) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=TOCS'12&color=purple)](https://dl.acm.org/doi/10.1145/2382553.2382556)
+
+  
+
+------
+
+<div style="display:none">
 
 ### template:
 
-* :smirk::heart::bookmark: [Template: this is a sample](paper/xx.pdf) [GPU Scheduling] [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=🌐&message=ArXiv&color=purple)](https://www.usenix.org/conference/osdi22) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/gg-lc/papernotes-rlsys) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](/materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/index)[![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
-
-
-
-----------------------
-
-
+* :smirk::heart::bookmark: [Template: this is a sample](paper/xx.pdf) [GPU Scheduling] [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=🌐&message=ArXiv&color=purple)](https://www.usenix.org/conference/osdi22) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/gg-lc/papernotes-rlsys) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](/materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/index) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
 
 ```markdown
 # notes
@@ -58,3 +64,4 @@
 [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
 ```
 
+</div>
