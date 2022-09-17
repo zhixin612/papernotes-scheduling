@@ -44,6 +44,20 @@
 ------
 
 <div style="display:none">
+    # notes
+    [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/xxx.md)
+	# origin
+	[![](https://img.shields.io/static/v1.svg?label=🌐&message=ArXiv&color=purple)](link)
+	# slides
+	[![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/xx.pdf)
+	# code / repo
+	[![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](link)
+	# talk
+	[![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](link)
+	# blog & materials
+	[![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
+</div>
+
 
 ### template:
 
@@ -63,5 +77,3 @@
 # blog & materials
 [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
 ```
-
-</div>
