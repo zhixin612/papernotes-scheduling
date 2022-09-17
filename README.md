@@ -6,7 +6,7 @@
 
 ### materials
 
-* CCF list 2019: [[chinese](materials/CCF_chinese.pdf)] [[internal](materials/CCF_internal.pdf)]
+* CCF list 2019: [[chinese](materials/CCF_chinese.pdf)] [[international](materials/CCF_international.pdf)]
 
 [//]: https://img.shields.io/static/v1.svg?label=abc&amp;message=abc&amp;color=blue&amp;labelColor=gray
 [//]: https://blog.csdn.net/luo15242208310/article/details/114530777
