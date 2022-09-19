@@ -29,7 +29,7 @@
 
 ### 2022.00
 
-* [Scrooge: A Cost-Effective Deep Learning Inference System]([1]Scrooge.pdf) [![](https://img.shields.io/static/v1.svg?label=[B]&message=SoCC'21&color=purple)](https://dl.acm.org/doi/10.1145/3472883.3486993) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://dl.acm.org/doi/10.1145/3472883.3486993#video_stream_uuid%3Af352c203-6b14-4ec0-a71a-860dc0b345f6) 
+* [Scrooge: A Cost-Effective Deep Learning Inference System]([1]Scrooge.pdf) [![](https://img.shields.io/static/v1.svg?label=[B]&message=SoCC'21&color=purple)](https://dl.acm.org/doi/10.1145/3472883.3486993) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://dl.acm.org/doi/10.1145/3472883.3486993#video_stream_uuid%3Af352c203-6b14-4ec0-a71a-860dc0b345f6)
 
 * [Nexus: A GPU Cluster Engine for Accelerating DNN-Based Video Analysis](paper/[1]AutoScale.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&labelColor=gray&message=SOSP'19&color=purple)](https://dl.acm.org/doi/10.1145/3341301.3359658) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/nexus.pdf) [![](https://img.shields.io/static/v1.svg?label=📹&labelColor=gray&message=TALK&color=yellow)](https://sosp19.rcs.uwaterloo.ca/videos/D2-S2-P3.mp4)
 
