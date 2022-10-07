@@ -13,23 +13,32 @@
 
 ### To read (learn)
 
-* **Borg**; **RAS**; **~~Twine~~**; **Trarfik**; **Ngnix**; [**blog**](https://logz.io/blog/best-open-source-load-balancers/)
-* **AntMan**; **InferLine**; **Llama**; **Gandiva**; **Clipper**;
-* [low priority]: **MapReduce**; **GFS**; **BigTable**
-* [low priority] **Spanner**; **B4**; **Bynamo**
-* [book]: **Designing Data-Intensive Applications**
+* Clipper: A Low-Latency Online Prediction Serving System ![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'17&color=purple)
+* InFaas: Automated Model-less Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'21&color=purple)
+* AntMan: Dynamic Scaling on GPU Clusters for Deep Learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)
+* InferLine: latency-aware provisioning and scaling for prediction serving pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'20&color=purple)
+* Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'21&color=purple)
+* Gandiva: introspective cluster scheduling for deep learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'18&color=purple)
+* Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency ![](https://img.shields.io/static/v1.svg?label=[B]&message=Middleware'17&color=purple)
+* **[partial]** Borg; RAS; Trarfik; Ngnix; [blog](https://logz.io/blog/best-open-source-load-balancers/)
+* **[low priority]**: MapReduce; GFS; BigTable
+* **[low priority]** Spanner; B4; Bynamo
+* **[book]**: Designing Data-Intensive Applications
 
 ----
 
-### 2022.09
+### 2022.10
 
 * [Cocktail: A Multidimensional Optimization for Model Serving in Cloud](paper/[3]Cocktail.pdf) [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'22&color=purple)](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/jashwantraj92/cocktail) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/nsdi22_slides_gunasekaran.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/VAsB1XBuRZ0)
+
+### 2022.09
+
 * [Twine: A Unified Cluster Management System for Shared Infrastructure](paper/[2]Twine.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)](https://www.usenix.org/conference/osdi20/presentation/tang) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_tang.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/papertalks/22334) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
 * [Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications](paper/[2]Shard_Manager.pdf) [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/shard_manager.md) [![](https://img.shields.io/static/v1.svg?label=[A]&message=SOSP'21&color=purple)](https://dl.acm.org/doi/10.1145/3477132.3483546) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/OMI52r-thFA) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 * [Autopilot: workload autoscaling at Google](paper/[2]Autopilot.pdf) [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/autopilot.md) [![](https://img.shields.io/static/v1.svg?label=[B]&message=EuroSys'20&color=purple)](https://dl.acm.org/doi/abs/10.1145/3342195.3387524) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/autopilot.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/RVXvMgNG10w)
 * Piccolo: --
 
-### 2022.00
+### 2022
 
 * [Scrooge: A Cost-Effective Deep Learning Inference System]([1]Scrooge.pdf) [![](https://img.shields.io/static/v1.svg?label=[B]&message=SoCC'21&color=purple)](https://dl.acm.org/doi/10.1145/3472883.3486993) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://dl.acm.org/doi/10.1145/3472883.3486993#video_stream_uuid%3Af352c203-6b14-4ec0-a71a-860dc0b345f6)
 
@@ -44,5 +53,5 @@
 
 ### Template:
 
-* :smirk::heart::bookmark: [Template: this is a sample](paper/xx.pdf) [GPU Scheduling] [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=🌐&message=ArXiv&color=purple)](https://www.usenix.org/conference/osdi22) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/gg-lc/papernotes-rlsys) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](/materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/index) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
+* :smirk::heart::bookmark: [Template: An example](paper/xx.pdf) [GPU Scheduling] [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=🌐&message=ArXiv&color=purple)](https://www.usenix.org/conference/osdi22) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/gg-lc/papernotes-rlsys) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](/materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/index) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](link)
 
