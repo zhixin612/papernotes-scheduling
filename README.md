@@ -20,6 +20,7 @@
 * Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'21&color=purple)
 * Gandiva: introspective cluster scheduling for deep learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'18&color=purple)
 * Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency ![](https://img.shields.io/static/v1.svg?label=[B]&message=Middleware'17&color=purple)
+* MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
 * **[partial]** Borg; RAS; Trarfik; Ngnix; [blog](https://logz.io/blog/best-open-source-load-balancers/)
 * **[low priority]**: MapReduce; GFS; BigTable
 * **[low priority]** Spanner; B4; Bynamo
