@@ -1,6 +1,6 @@
 
 
-# Paper notes - Scheduling & Network systems
+# Paper notes - Scheduling & Networked Systems
 
 [![](https://img.shields.io/github/repo-size/gg-lc/papernotes-scheduling?label=repo%20size)](https://github.com/gg-lc/papernotes-scheduling) [![](https://img.shields.io/github/directory-file-count/gg-lc/papernotes-scheduling/paper?label=total%20papers&labelColor=gray&color=red)](paper)
 
@@ -30,7 +30,16 @@
 
 ### 2022.10
 
-* [Cocktail: A Multidimensional Optimization for Model Serving in Cloud](paper/[3]Cocktail.pdf) [![](https://img.shields.io/static/v1.svg?label=📑&message=NOTE&color=red)](notes/xxx.md) [![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'22&color=purple)](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/jashwantraj92/cocktail) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/nsdi22_slides_gunasekaran.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/VAsB1XBuRZ0)
+* [glance] [Tributary: spot-dancing for elastic services with latency SLOs](paper/[3]Cocktail.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'18&color=purple)](https://www.usenix.org/conference/atc18/presentation/harlap) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_harlap.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://www.usenix.org/conference/atc18/presentation/harlap)
+  * Transient Instance (AWS Spot Instance)
+  * **Trace**: ClarkNet & WITS & ...
+
+* [Cocktail: A Multidimensional Optimization for Model Serving in Cloud](paper/[3]Cocktail.pdf) [![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'22&color=purple)](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/jashwantraj92/cocktail) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/nsdi22_slides_gunasekaran.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/VAsB1XBuRZ0)
+  * Ensemble Learning
+  * Transient Instance
+  * "DeepAR-estimator"
+  * **Trace**: Wikipedia & tweet
+
 
 ### 2022.09
 
