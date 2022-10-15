@@ -13,6 +13,8 @@
 
 ### To read (learn)
 
+* The Tail in Scale
+* FA2
 * Clipper: A Low-Latency Online Prediction Serving System ![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'17&color=purple)
 * InFaas: Automated Model-less Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'21&color=purple)
 * AntMan: Dynamic Scaling on GPU Clusters for Deep Learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)
