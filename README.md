@@ -32,6 +32,10 @@
 
 ### 2022.10
 
+* a paper from ToN
+  
+* InferLine
+  
 * [glance] **Tributary: spot-dancing for elastic services with latency SLOs** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'18&color=purple)](https://www.usenix.org/conference/atc18/presentation/harlap) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_harlap.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://www.usenix.org/conference/atc18/presentation/harlap)
   * Transient Instance (AWS Spot Instance)
   * **Trace**: ClarkNet & WITS & ...
