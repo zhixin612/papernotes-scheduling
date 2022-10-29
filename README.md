@@ -14,27 +14,30 @@
 ### To read (learn)
 
 * The Tail in Scale
-* FA2 [source code](http://www.baidu.com)
+* FA2 [source code]()
+* INFLess: ...
+  * problem: whether severless can reduce or eliminate the model cold start time?
+
 * Clipper: A Low-Latency Online Prediction Serving System ![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'17&color=purple)
 * InFaas: Automated Model-less Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'21&color=purple)
 * AntMan: Dynamic Scaling on GPU Clusters for Deep Learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)
-* InferLine: latency-aware provisioning and scaling for prediction serving pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'20&color=purple)
+* 
 * Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'21&color=purple)
 * Gandiva: introspective cluster scheduling for deep learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'18&color=purple)
 * Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency ![](https://img.shields.io/static/v1.svg?label=[B]&message=Middleware'17&color=purple)
 * MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
 * **[partial]** Borg; RAS; Trarfik; Ngnix; [blog](https://logz.io/blog/best-open-source-load-balancers/)
 * **[low priority]**: MapReduce; GFS; BigTable
-* **[low priority]** Spanner; B4; Bynamo
+* **[low priority]** Spanner(google); B4; Dynamo
 * **[book]**: Designing Data-Intensive Applications
 
 ----
 
 ### 2022.10
 
-* a paper from ToN
+* A paper from ToN: ---
   
-* InferLine
+* InferLine: latency-aware provisioning and scaling for prediction serving pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'20&color=purple)
   
 * [glance] **Tributary: spot-dancing for elastic services with latency SLOs** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'18&color=purple)](https://www.usenix.org/conference/atc18/presentation/harlap) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_harlap.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://www.usenix.org/conference/atc18/presentation/harlap)
   * Transient Instance (AWS Spot Instance)
@@ -52,7 +55,7 @@
 * **Twine: A Unified Cluster Management System for Shared Infrastructure** [![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)](https://www.usenix.org/conference/osdi20/presentation/tang) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_tang.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://papertalk.org/papertalks/22334) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
 * **Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications** [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/shard_manager.md) [![](https://img.shields.io/static/v1.svg?label=[A]&message=SOSP'21&color=purple)](https://dl.acm.org/doi/10.1145/3477132.3483546) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/xx.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/OMI52r-thFA) [![](https://img.shields.io/static/v1.svg?label=📑&message=Blog&color=ffa000)](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 * **Autopilot: workload autoscaling at Google** [![](https://img.shields.io/static/v1.svg?label=📝&message=NOTE&color=red)](notes/autopilot.md) [![](https://img.shields.io/static/v1.svg?label=[B]&message=EuroSys'20&color=purple)](https://dl.acm.org/doi/abs/10.1145/3342195.3387524) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](materials/autopilot.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/RVXvMgNG10w)
-* **Piccolo: --**
+* **Piccolo: ---**
 
 ### 2022
 
