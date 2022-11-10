@@ -15,17 +15,12 @@
 
 * The Tail in Scale
 * FA2 [source code]()
-* INFLess: ...
-  * problem: whether severless can reduce or eliminate the model cold start time?
-
-* Clipper: A Low-Latency Online Prediction Serving System ![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'17&color=purple)
-* InFaas: Automated Model-less Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'21&color=purple)
-* AntMan: Dynamic Scaling on GPU Clusters for Deep Learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'20&color=purple)
-* 
-* Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'21&color=purple)
-* Gandiva: introspective cluster scheduling for deep learning ![](https://img.shields.io/static/v1.svg?label=[A]&message=OSDI'18&color=purple)
-* Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency ![](https://img.shields.io/static/v1.svg?label=[B]&message=Middleware'17&color=purple)
-* MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
+* (NSDI'17) Clipper: A Low-Latency Online Prediction Serving System
+* (ATC'21) InFaas: Automated Model-less Inference Serving
+* (OSDI'20) AntMan: Dynamic Scaling on GPU Clusters for Deep Learning
+* (SoCC'21) Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines
+* (OSDI'18) Gandiva: introspective cluster scheduling for deep learning
+* (Middleware'17) Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency
 * **[partial]** Borg; RAS; Trarfik; Ngnix; [blog](https://logz.io/blog/best-open-source-load-balancers/)
 * **[low priority]**: MapReduce; GFS; BigTable
 * **[low priority]** Spanner(google); B4; Dynamo
@@ -36,7 +31,7 @@
 ### 2022.11
 
 * INFless
-* MArk
+* MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
 
 * [**Serverless**] **[Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/abs/1902.03383)** ![](https://img.shields.io/static/v1.svg?label=[-]&message=ArXiv&color=purple)
   * history of cloud computing
@@ -49,8 +44,9 @@
 * [**Serverless**] **[Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)** ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'20&color=purple)
   * characterize the FaaS workload of Azure Functions
   * propose a practical resource management policy to **reduce the number of cold starts**
-* [**Serverless**] 
-* [**Serverless**] 
+* [**Serverless**] :bookmark: **[Xanadu: Mitigating cascading cold starts in serverless function chain deployments](https://dl.acm.org/doi/10.1145/3423211.3425690)** ![](https://img.shields.io/static/v1.svg?label=[B]&message=Middleware'20&color=purple)
+  * (pipeline) **deploy resources for the execution chain** before traffic bursts
+  * **cascading cold start** increase linearly with chain length
 
 ### 2022.10
 
@@ -58,11 +54,11 @@
   
 * **InferLine: latency-aware provisioning and scaling for prediction serving pipelines** ![](https://img.shields.io/static/v1.svg?label=[A]&message=SoCC'20&color=purple)
   
-* **Tributary: spot-dancing for elastic services with latency SLOs** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'18&color=purple)](https://www.usenix.org/conference/atc18/presentation/harlap) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_harlap.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://www.usenix.org/conference/atc18/presentation/harlap)
+* [**Spot instance**] **Tributary: spot-dancing for elastic services with latency SLOs** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'18&color=purple)](https://www.usenix.org/conference/atc18/presentation/harlap) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_harlap.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://www.usenix.org/conference/atc18/presentation/harlap)
   * Transient Instance (AWS Spot Instance)
   * **Trace**: ClarkNet & WITS & ...
 
-* **Cocktail: A Multidimensional Optimization for Model Serving in Cloud** [![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'22&color=purple)](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/jashwantraj92/cocktail) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/nsdi22_slides_gunasekaran.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/VAsB1XBuRZ0)
+* [**Spot instance**] **Cocktail: A Multidimensional Optimization for Model Serving in Cloud** [![](https://img.shields.io/static/v1.svg?label=[A]&message=NSDI'22&color=purple)](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) [![](https://img.shields.io/static/v1.svg?label=&logo=github&labelColor=gray&message=CODE&color=blue)](https://github.com/jashwantraj92/cocktail) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/nsdi22_slides_gunasekaran.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/VAsB1XBuRZ0)
   * Ensemble Learning
   * Transient Instance
   * "DeepAR-estimator"
