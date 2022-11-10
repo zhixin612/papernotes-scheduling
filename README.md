@@ -38,7 +38,7 @@
 * INFless
 * MArk
 
-* ![](https://img.shields.io/static/v1.svg?label=&message=Serverless&color=red)**[Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/abs/1902.03383)**
+* [Serverless] **[Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/abs/1902.03383)**
   * history of cloud computing
   * motivations for serverless computing
   * limitations of serverless
