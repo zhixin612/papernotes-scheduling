@@ -38,16 +38,15 @@
 * INFless
 * MArk
 
-* **[serverless] Cloud Programming Simplified: A Berkeley View on Serverless Computing** ![](https://img.shields.io/static/v1.svg?label=&message=IMPORTANT&color=red)
+* ![](https://img.shields.io/static/v1.svg?label=&message=Serverless&color=red)**[Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/abs/1902.03383)**
   * history of cloud computing
   * motivations for serverless computing
   * limitations of serverless
-* 
-* **[serverless] Evaluation of Production Serverless Computing Environments** [![](https://img.shields.io/static/v1.svg?label=[C]&message=CoCC'18&color=purple)](https://ieeexplore.ieee.org/abstract/document/8457830/)
+* ![](https://img.shields.io/static/v1.svg?label=&message=Serverless&color=red)**[Evaluation of Production Serverless Computing Environments](https://ieeexplore.ieee.org/abstract/document/8457830/)** ![](https://img.shields.io/static/v1.svg?label=[C]&message=CoCC'18&color=purple)
   * evaluates the performance of production serverless
   *  "serverless is powered by container technologies which have **near zero start-up delay and deleting latency**."
   * "a container is **deployed and terminated within a few milliseconds** for the function invocation **w/ pre warmup** policy"
-* **[serverless] Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'20&color=purple)](https://www.usenix.org/conference/atc20/presentation/shahrad) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/atc20-paper593-slides-shahrad.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/fzjO8hL_Av4)
+* ![](https://img.shields.io/static/v1.svg?label=&message=Serverless&color=red)**[Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.usenix.org/conference/atc20/presentation/shahrad)** [![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'20&color=purple)](https://www.usenix.org/conference/atc20/presentation/shahrad) [![](https://img.shields.io/static/v1.svg?label=📺&message=slides&color=green)](https://www.usenix.org/system/files/atc20-paper593-slides-shahrad.pdf) [![](https://img.shields.io/static/v1.svg?label=&labelColor=gray&logo=youtube&logoColor=red&message=TALK&color=yellow)](https://youtu.be/fzjO8hL_Av4)
   * characterize the FaaS workload of Azure Functions
   * propose a practical resource management policy to **reduce the number of cold starts**
 * [serverless]
