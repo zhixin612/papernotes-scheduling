@@ -31,7 +31,19 @@
 ### 2022.11
 
 * INFless
-* MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
+  * Problem
+  * Insights
+  * Solution
+  * Other
+
+* **[MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving]()** ![](https://img.shields.io/static/v1.svg?label=[A]&message=ATC'19&color=purple)
+  * Problem
+
+  * Insights
+
+  * Solution
+
+  * Other
 
 * [**Serverless**] **[Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/abs/1902.03383)** ![](https://img.shields.io/static/v1.svg?label=[-]&message=ArXiv&color=purple)
   * history of cloud computing
